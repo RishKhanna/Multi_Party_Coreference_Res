@@ -1,0 +1,4 @@
+05/05/2023 18:41:38 - INFO - __main__ -   Namespace(trn_data=PosixPath('data/trn_SpanBERTspanbert-large-cased_batches.json'), dev_data=PosixPath('data/dev_SpanBERTspanbert-large-cased_batches.json'), tst_data=PosixPath('data/tst_SpanBERTspanbert-large-cased_batches.json'), seed=42, learning_rate=3e-05, model='SpanBERT/spanbert-base-cased', num_epochs=101, num_memory_layers=2, coref_weight=1, linking_weight=1, fp16=True, warmup_proportion=0.1, max_grad_norm=1.0, output_examples=False, dev_keys=PosixPath('../data/data_set_keys_scene_dev.json'), trn_keys=PosixPath('../data/data_set_keys_scene_trn.json'), tst_keys=PosixPath('../data/data_set_keys_scene_tst.json'))
+05/05/2023 18:41:38 - INFO - __main__ -   device: cuda n_gpu: 2,  16-bits training: True
+05/05/2023 18:41:49 - INFO - __main__ -   ***** Running training *****
+05/05/2023 18:41:49 - INFO - __main__ -   Epoch: 0
